@@ -1,0 +1,4 @@
+-> Run the server first and then the client
+-> Enter the port number and IP addresses
+-> Send a message from the client side
+-> All of the necessary files will be included in the zip file
